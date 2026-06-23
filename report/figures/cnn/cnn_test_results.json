@@ -1,0 +1,5 @@
+{
+  "best_model": "CNN_Deep",
+  "test_loss": 0.2021,
+  "test_accuracy": 0.9305
+}

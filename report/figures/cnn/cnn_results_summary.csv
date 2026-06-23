@@ -1,0 +1,7 @@
+Modèle,Best Val Loss,Best Val Acc,Final Train Acc,Écart Train-Val
+CNN_Deep,0.1842,0.9363,0.9392,0.0029
+LeNet_ReLU_AvgPool,0.2552,0.9109,0.9337,0.0228
+LeNet_ReLU_MaxPool,0.2647,0.9089,0.951,0.0421
+LeNet_Conv1x1,0.2647,0.9073,0.9357,0.0285
+MLP_Baseline,0.2972,0.896,0.9147,0.0187
+LeNet_Sigmoid_AvgPool,0.3478,0.8762,0.88,0.0038
